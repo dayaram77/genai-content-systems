@@ -1,0 +1,28 @@
+{
+  "checks": [
+    {
+      "id": "accuracy",
+      "description": "The lesson correctly explains RAG and does not confuse retrieval with model training."
+    },
+    {
+      "id": "beginner_friendly",
+      "description": "The lesson uses simple English suitable for a 12th-grade graduate with no AI background."
+    },
+    {
+      "id": "jargon",
+      "description": "Technical terms are explained in simple language before or when they are first used."
+    },
+    {
+      "id": "example",
+      "description": "The lesson includes a concrete example showing how RAG answers a question using retrieved information."
+    },
+    {
+      "id": "coverage",
+      "description": "The lesson explains what RAG is, why it matters, and how it works, including retrieval, context, and generation."
+    },
+    {
+      "id": "flow",
+      "description": "The lesson follows a logical teaching order, with concepts introduced before they are used."
+    }
+  ]
+}
