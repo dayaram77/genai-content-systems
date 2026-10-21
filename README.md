@@ -237,7 +237,7 @@ API/network failures are logged separately and are not treated as rubric failure
 
 GenAI Engineer
 
-GitHub: [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+GitHub: (https://github.com/dayaram77)
 
 ## License
 
