@@ -141,7 +141,7 @@ This result demonstrates that the system can detect an incorrect lesson, regener
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/genai-content-systems.git
+git clone https://github.com/dayaram77/genai-content-systems.git
 cd genai-content-systems
 ```
 
