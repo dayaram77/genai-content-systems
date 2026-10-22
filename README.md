@@ -89,6 +89,35 @@ Accept Lesson   Record Rejection
                  |
                  v
            Re-evaluate
+
+
+Step 1 — Give a topic
+
+Example: Introduction to RAG
+
+
+Step 2 — Generator creates a lesson
+
+Gemini writes the lesson in simple language, with explanations and examples.
+
+
+Step 3 — Evaluator checks the lesson
+
+It checks accuracy, beginner-friendly language, jargon, examples, coverage, and flow against your rubric.
+
+
+If ACCEPT
+
+Save the approved lesson in the accepted output file.
+
+
+If REJECT
+
+Save the failed checks and send the feedback to the generator for another attempt.
+
+
+
+The retry loop stops when the lesson passes or the maximum number of attempts is reached.
 ```
 
 ## Evaluation Rubric
